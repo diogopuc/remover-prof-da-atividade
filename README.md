@@ -1,4 +1,4 @@
-# remove_atividade.py
+# Remover_Professor_da_Atividade.py
 
 Script para remover professores de atividades docentes na plataforma **Agenda Docente**, via chamada direta à API do Grupo Marista.
 
